@@ -1,0 +1,631 @@
+    1  ping google.com
+    2  ifconfig
+    3  ipconfig
+    4  py challenges
+    5  python3 challenges
+    6  ls
+    7  python3 challenges.py 
+    8  ping google.com
+    9  python
+   10  python -v
+   11  python3 -v
+   12  python3 
+   13  sudo apt install python3
+   14  sudo apt upgrade
+   15  sudo apt update
+   16  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41739 /home/rucruit/Desktop/tumi.py 
+   17  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40277 /home/rucruit/Desktop/tumi.py 
+   18  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37563 /home/rucruit/Desktop/tumi.py 
+   19  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33671 /home/rucruit/Desktop/tumi.py 
+   20  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37971 /home/rucruit/Desktop/tumi.py 
+   21  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42305 /home/rucruit/Desktop/tumi.py 
+   22  python3.7 c.py
+   23  /usr/bin/python3 /home/rucruit/Desktop/c.py
+   24  /usr/bin/python3 /home/rucruit/Desktop/slk.py
+   25  /usr/bin/python3 /home/rucruit/Desktop/c.py
+   26  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36865 /home/rucruit/Desktop/slk.py 
+   27  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37491 /home/rucruit/Desktop/slk.py 
+   28  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46459 /home/rucruit/Desktop/slk.py 
+   29  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33427 /home/rucruit/Desktop/slk.py 
+   30  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43831 /home/rucruit/Desktop/slk.py 
+   31  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37503 /home/rucruit/Desktop/slk.py 
+   32  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38447 /home/rucruit/Desktop/slk.py 
+   33  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41565 /home/rucruit/Desktop/slk.py 
+   34  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42315 /home/rucruit/Desktop/slk.py 
+   35  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42157 /home/rucruit/Desktop/slk.py 
+   36  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44397 /home/rucruit/Desktop/slk.py 
+   37  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33343 /home/rucruit/Desktop/slk.py 
+   38  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39061 /home/rucruit/Desktop/slk.py 
+   39  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41779 /home/rucruit/Desktop/slk.py 
+   40  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40555 /home/rucruit/Desktop/slk.py 
+   41  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45685 /home/rucruit/Desktop/slk.py 
+   42  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43885 /home/rucruit/Desktop/slk.py 
+   43  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46229 /home/rucruit/Desktop/slk.py 
+   44  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36751 /home/rucruit/Desktop/slk.py 
+   45  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45771 /home/rucruit/Desktop/slk.py 
+   46  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35969 /home/rucruit/Desktop/c.py 
+   47  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36359 /home/rucruit/Desktop/c.py 
+   48  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39759 /home/rucruit/Desktop/c.py 
+   49  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40981 /home/rucruit/Desktop/c.py 
+   50  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36271 /home/rucruit/Desktop/c.py 
+   51  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44631 /home/rucruit/Desktop/c.py 
+   52  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43331 /home/rucruit/Desktop/c.py 
+   53  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36807 /home/rucruit/Desktop/c.py 
+   54  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38579 /home/rucruit/Desktop/c.py 
+   55  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40069 /home/rucruit/Desktop/c.py 
+   56  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42803 /home/rucruit/Desktop/c.py 
+   57  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44539 /home/rucruit/Desktop/c.py 
+   58  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38461 /home/rucruit/Desktop/c.py 
+   59  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36527 /home/rucruit/Desktop/c.py 
+   60  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44815 /home/rucruit/Desktop/c.py 
+   61  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35773 /home/rucruit/Desktop/slk.py 
+   62  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39853 /home/rucruit/Desktop/c.py 
+   63  `cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43861 /home/rucruit/Desktop/c.py 
+   64  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36697 /home/rucruit/Desktop/slk.py 
+   65  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38691 /home/rucruit/Desktop/c.py 
+   66  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36681 /home/rucruit/Desktop/c.py 
+   67  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44409 /home/rucruit/Desktop/c.py 
+   68  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38103 /home/rucruit/Desktop/c.py 
+   69  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46869 /home/rucruit/Desktop/c.py 
+   70  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39547 /home/rucruit/Desktop/c.py 
+   71  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43823 /home/rucruit/Desktop/c.py 
+   72  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40909 /home/rucruit/Desktop/c.py 
+   73  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33971 /home/rucruit/Desktop/c.py 
+   74  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38043 /home/rucruit/Desktop/tumi.py 
+   75  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40895 /home/rucruit/Desktop/tumi.py 
+   76  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42659 /home/rucruit/Desktop/tumi.py 
+   77  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40781 /home/rucruit/Desktop/tumi.py 
+   78  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40487 /home/rucruit/Desktop/tumi.py 
+   79  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35929 /home/rucruit/Desktop/tumi.py 
+   80  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43055 /home/rucruit/Desktop/tumi.py 
+   81  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35205 /home/rucruit/Desktop/tumi.py 
+   82  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34301 /home/rucruit/Desktop/tumi.py 
+   83  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46523 /home/rucruit/Desktop/tumi.py 
+   84  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35599 /home/rucruit/Desktop/tumi.py 
+   85  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37439 /home/rucruit/Desktop/tumi.py 
+   86  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39325 /home/rucruit/Desktop/tumi.py 
+   87  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33415 /home/rucruit/Desktop/tumi.py 
+   88  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44879 /home/rucruit/Desktop/tumi.py 
+   89  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38363 /home/rucruit/Desktop/tumi.py 
+   90  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34889 /home/rucruit/Desktop/tumi.py 
+   91  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41175 /home/rucruit/Desktop/tumi.py 
+   92  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39203 /home/rucruit/Desktop/tumi.py 
+   93  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42267 /home/rucruit/Desktop/tumi.py 
+   94  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33769 /home/rucruit/Desktop/tumi.py 
+   95  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46649 /home/rucruit/Desktop/tumi.py 
+   96  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33935 /home/rucruit/Desktop/tumi.py 
+   97  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35595 /home/rucruit/Desktop/tumi.py 
+   98  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41891 /home/rucruit/Desktop/tumi.py 
+   99  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43173 /home/rucruit/Desktop/tumi.py 
+  100  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35435 /home/rucruit/Desktop/tumi.py 
+  101  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43943 /home/rucruit/Desktop/tumi.py 
+  102  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34941 /home/rucruit/Desktop/tumi.py 
+  103  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40379 /home/rucruit/Desktop/tumi.py 
+  104  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34263 /home/rucruit/Desktop/tumi.py 
+  105  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35481 /home/rucruit/Desktop/tumi.py 
+  106  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33231 /home/rucruit/Desktop/tumi.py 
+  107  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45033 /home/rucruit/Desktop/tumi.py 
+  108  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38071 /home/rucruit/Desktop/tumi.py 
+  109  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36489 /home/rucruit/Desktop/tumi.py 
+  110  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35705 /home/rucruit/Desktop/tumi.py 
+  111  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39155 /home/rucruit/Desktop/tumi.py 
+  112  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37635 /home/rucruit/Desktop/tumi.py 
+  113  6cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43455 /home/rucruit/Desktop/c.py 
+  114  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41703 /home/rucruit/Desktop/tumi.py 
+  115  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42405 /home/rucruit/Desktop/c.py 
+  116  cd /home/rucruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/rucruit/snap/code/20 LANG=en_ZA.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=20 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=rucruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=9439 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=11 SNAP_USER_COMMON=/home/rucruit/snap/code/common USER=rucruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/rucruit HOME=/home/rucruit TEXTDOMAIN=im-config SNAP=/snap/code/20 SSH_AGENT_PID=8406 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/20 GSETTINGS_SCHEMA_DIR=/snap/code/20/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu GDK_PIXBUF_MODULE_FILE=/home/rucruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=ibus XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/20/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/rucruit/snap/code/common/.cache LOGNAME=rucruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=8795a988 SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/rucruit-ThinkCentre-M73:@/tmp/.ICE-unix/8311,unix/rucruit-ThinkCentre-M73:/tmp/.ICE-unix/8311 GTK_IM_MODULE=ibus _=/snap/code/20/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/rucruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/rucruit/.config/Code/logs/20191126T075441 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-91acf92d-1.40.1-main.sock VSCODE_PID=9486 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-1deef6b5-9bb2-41de-8d64-577b3ec8bc3f.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 42223 /home/rucruit/Desktop/tumi.py 
+  117  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33425 /home/rucruit/Desktop/tumi.py 
+  118  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33107 /home/rucruit/Desktop/tumi.py 
+  119  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40967 /home/rucruit/Desktop/c.py 
+  120  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34015 /home/rucruit/Desktop/Tsek.py 
+  121  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 32801 /home/rucruit/Desktop/Tsek.py 
+  122  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40731 /home/rucruit/Desktop/Tsek.py 
+  123  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46747 /home/rucruit/Desktop/c.py 
+  124  cd /home/rucruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/rucruit/snap/code/20 LANG=en_ZA.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=20 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=rucruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=22082 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=40 SNAP_USER_COMMON=/home/rucruit/snap/code/common USER=rucruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/rucruit HOME=/home/rucruit TEXTDOMAIN=im-config SNAP=/snap/code/20 SSH_AGENT_PID=21018 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/20 GSETTINGS_SCHEMA_DIR=/snap/code/20/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu GDK_PIXBUF_MODULE_FILE=/home/rucruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=ibus XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/20/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/rucruit/snap/code/common/.cache LOGNAME=rucruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=8795a988 SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/rucruit-ThinkCentre-M73:@/tmp/.ICE-unix/20923,unix/rucruit-ThinkCentre-M73:/tmp/.ICE-unix/20923 GTK_IM_MODULE=ibus _=/snap/code/20/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/rucruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/rucruit/.config/Code/logs/20191127T081543 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-91acf92d-1.40.1-main.sock VSCODE_PID=22130 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-8d97f277-dc33-4220-b32f-9c07a78e9f8d.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 36643 /home/rucruit/Desktop/c.py 
+  125  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45029 /home/rucruit/Desktop/Tsek.py 
+  126  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36463 /home/rucruit/Desktop/Tsek.py 
+  127  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33187 /home/rucruit/Desktop/Tsek.py 
+  128  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46047 /home/rucruit/Desktop/Tsek.py 
+  129  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41671 /home/rucruit/Desktop/Tsek.py 
+  130  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34873 /home/rucruit/Desktop/Tsek.py 
+  131  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35935 /home/rucruit/Desktop/Tsek.py 
+  132  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45991 /home/rucruit/Desktop/c.py 
+  133  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43383 /home/rucruit/Desktop/Tsek.py 
+  134  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40111 /home/rucruit/Desktop/Tsek.py 
+  135  cd /home/rucruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/rucruit/snap/code/20 LANG=en_ZA.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=20 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=rucruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=22082 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=40 SNAP_USER_COMMON=/home/rucruit/snap/code/common USER=rucruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/rucruit HOME=/home/rucruit TEXTDOMAIN=im-config SNAP=/snap/code/20 SSH_AGENT_PID=21018 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/20 GSETTINGS_SCHEMA_DIR=/snap/code/20/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu GDK_PIXBUF_MODULE_FILE=/home/rucruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=ibus XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/20/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/rucruit/snap/code/common/.cache LOGNAME=rucruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=8795a988 SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/rucruit-ThinkCentre-M73:@/tmp/.ICE-unix/20923,unix/rucruit-ThinkCentre-M73:/tmp/.ICE-unix/20923 GTK_IM_MODULE=ibus _=/snap/code/20/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/rucruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/rucruit/.config/Code/logs/20191127T081543 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-91acf92d-1.40.1-main.sock VSCODE_PID=22130 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-8d97f277-dc33-4220-b32f-9c07a78e9f8d.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 42299 /home/rucruit/Desktop/Tsek.py 
+  136  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41297 /home/rucruit/Desktop/newpractice.py 
+  137  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46567 /home/rucruit/Desktop/newpractice.py 
+  138  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36049 /home/rucruit/Desktop/newpractice.py 
+  139  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34267 /home/rucruit/Desktop/newpractice.py 
+  140  /usr/bin/python3 /home/rucruit/Desktop/Tsek.py
+  141  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37101 /home/rucruit/Desktop/newpractice.py 
+  142  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38709 /home/rucruit/Desktop/newpractice.py 
+  143  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41013 /home/rucruit/Desktop/c.py 
+  144  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33711 /home/rucruit/Desktop/c.py 
+  145  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39737 /home/rucruit/Desktop/c.py 
+  146  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41205 /home/rucruit/Desktop/c.py 
+  147  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44261 /home/rucruit/Desktop/c.py 
+  148  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41043 /home/rucruit/Desktop/c.py 
+  149  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33401 /home/rucruit/Desktop/c.py 
+  150  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37327 /home/rucruit/Desktop/c.py 
+  151  9
+  152  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42353 /home/rucruit/Desktop/c.py 
+  153  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38879 /home/rucruit/Desktop/c.py 
+  154  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38797 /home/rucruit/Desktop/c.py 
+  155  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45935 /home/rucruit/Desktop/c.py 
+  156  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44813 /home/rucruit/Desktop/c.py 
+  157  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41249 /home/rucruit/Desktop/c.py 
+  158  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46053 /home/rucruit/Desktop/c.py 
+  159  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39615 /home/rucruit/Desktop/c.py 
+  160  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35917 /home/rucruit/Desktop/c.py 
+  161  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37065 /home/rucruit/Desktop/c.py 
+  162  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36649 /home/rucruit/Desktop/c.py 
+  163  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46183 /home/rucruit/Desktop/c.py 
+  164  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43165 /home/rucruit/Desktop/c.py 
+  165  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37461 /home/rucruit/Desktop/slk.py 
+  166  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37425 /home/rucruit/Desktop/c.py 
+  167  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34693 /home/rucruit/Desktop/c.py 
+  168  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42641 /home/rucruit/Desktop/c.py 
+  169  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43391 /home/rucruit/Desktop/c.py 
+  170  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45417 /home/rucruit/Desktop/c.py 
+  171  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43391 /home/rucruit/Desktop/c.py 
+  172  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46067 /home/rucruit/Desktop/c.py 
+  173  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34327 /home/rucruit/Desktop/c.py 
+  174  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42551 /home/rucruit/Desktop/c.py 
+  175  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 32871 /home/rucruit/Desktop/c.py 
+  176  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33035 /home/rucruit/Desktop/c.py 
+  177  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37541 /home/rucruit/Desktop/c.py 
+  178  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34269 /home/rucruit/Desktop/c.py 
+  179  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46497 /home/rucruit/Desktop/c.py 
+  180  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42157 /home/rucruit/Desktop/c.py 
+  181  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37637 /home/rucruit/Desktop/c.py 
+  182  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45303 /home/rucruit/Desktop/tumi.py 
+  183  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38831 /home/rucruit/Desktop/tumi.py 
+  184  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43511 /home/rucruit/Desktop/tumi.py 
+  185  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43707 /home/rucruit/Desktop/tumi.py 
+  186  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45603 /home/rucruit/Desktop/tumi.py 
+  187  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44127 /home/rucruit/Desktop/tumi.py 
+  188  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33309 /home/rucruit/Desktop/tumi.py 
+  189  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33735 /home/rucruit/Desktop/tumi.py 
+  190  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36483 /home/rucruit/Desktop/tumi.py 
+  191  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34657 /home/rucruit/Desktop/tumi.py 
+  192  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38651 /home/rucruit/Desktop/tumi.py 
+  193  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40519 /home/rucruit/Desktop/tumi.py 
+  194  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38499 /home/rucruit/Desktop/tumi.py 
+  195  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39081 /home/rucruit/Desktop/tumi.py 
+  196  cd /home/rucruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/rucruit/snap/code/20 LANG=en_ZA.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=20 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=rucruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=22082 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=40 SNAP_USER_COMMON=/home/rucruit/snap/code/common USER=rucruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/rucruit HOME=/home/rucruit TEXTDOMAIN=im-config SNAP=/snap/code/20 SSH_AGENT_PID=21018 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/20 GSETTINGS_SCHEMA_DIR=/snap/code/20/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu GDK_PIXBUF_MODULE_FILE=/home/rucruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=ibus XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/20/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/rucruit/snap/code/common/.cache LOGNAME=rucruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=8795a988 SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/rucruit-ThinkCentre-M73:@/tmp/.ICE-unix/20923,unix/rucruit-ThinkCentre-M73:/tmp/.ICE-unix/20923 GTK_IM_MODULE=ibus _=/snap/code/20/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/rucruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/rucruit/.config/Code/logs/20191127T081543 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-91acf92d-1.40.1-main.sock VSCODE_PID=22130 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-8d97f277-dc33-4220-b32f-9c07a78e9f8d.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 42327 /home/rucruit/Desktop/tumi.py 
+  197  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33609 /home/rucruit/Desktop/tumi.py 
+  198  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36971 /home/rucruit/Desktop/tumi.py 
+  199  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44463 /home/rucruit/Desktop/tumi.py 
+  200  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45671 /home/rucruit/Desktop/tumi.py 
+  201  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35243 /home/rucruit/Desktop/tumi.py 
+  202  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45413 /home/rucruit/Desktop/tumi.py 
+  203  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33981 /home/rucruit/Desktop/tumi.py 
+  204  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35345 /home/rucruit/Desktop/tumi.py 
+  205  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33231 /home/rucruit/Desktop/tumi.py 
+  206  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45521 /home/rucruit/Desktop/tumi.py 
+  207  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35109 /home/rucruit/Desktop/tumi.py 
+  208  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46617 /home/rucruit/Desktop/tumi.py 
+  209  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44373 /home/rucruit/Desktop/tumi.py 
+  210  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36023 /home/rucruit/Desktop/tumi.py 
+  211  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40903 /home/rucruit/Desktop/tumi.py 
+  212  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38407 /home/rucruit/Desktop/tumi.py 
+  213  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33443 /home/rucruit/Desktop/tumi.py 
+  214  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38509 /home/rucruit/Desktop/tumi.py 
+  215  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40995 /home/rucruit/Desktop/tumi.py 
+  216  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41685 /home/rucruit/Desktop/tumi.py 
+  217  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45715 /home/rucruit/Desktop/practice.py 
+  218  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38199 /home/rucruit/Desktop/practice.py 
+  219  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 35199 /home/rucruit/Desktop/practice.py 
+  220  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37683 /home/rucruit/Desktop/practice.py 
+  221  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37143 /home/rucruit/Desktop/practice.py 
+  222  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42979 /home/rucruit/Desktop/practice.py 
+  223  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46241 /home/rucruit/Desktop/practice.py 
+  224  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45347 /home/rucruit/Desktop/practice.py 
+  225  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36869 /home/rucruit/Desktop/practice.py 
+  226  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39175 /home/rucruit/Desktop/practice.py 
+  227  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41303 /home/rucruit/Desktop/practice.py 
+  228  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40393 /home/rucruit/Desktop/Tsek.py 
+  229  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40339 /home/rucruit/Desktop/Tsek.py 
+  230  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34333 /home/rucruit/Desktop/Tsek.py 
+  231  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45031 /home/rucruit/Desktop/Tsek.py 
+  232  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41859 /home/rucruit/Desktop/Tsek.py 
+  233  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46025 /home/rucruit/Desktop/Tsek.py 
+  234  cd /home/rucruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/rucruit/snap/code/20 LANG=en_ZA.UTF-8 DISPLAY=:0 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=20 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=rucruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=22082 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=40 SNAP_USER_COMMON=/home/rucruit/snap/code/common USER=rucruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/rucruit HOME=/home/rucruit TEXTDOMAIN=im-config SNAP=/snap/code/20 SSH_AGENT_PID=21018 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/20 GSETTINGS_SCHEMA_DIR=/snap/code/20/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu GDK_PIXBUF_MODULE_FILE=/home/rucruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=ibus XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/20/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/rucruit/snap/code/common/.cache LOGNAME=rucruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=8795a988 SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/rucruit-ThinkCentre-M73:@/tmp/.ICE-unix/20923,unix/rucruit-ThinkCentre-M73:/tmp/.ICE-unix/20923 GTK_IM_MODULE=ibus _=/snap/code/20/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/rucruit/.config/Code/CachedData/8795a9889db74563ddd43eb0a897a2384129a619 VSCODE_LOGS=/home/rucruit/.config/Code/logs/20191127T081543 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-91acf92d-1.40.1-main.sock VSCODE_PID=22130 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-8d97f277-dc33-4220-b32f-9c07a78e9f8d.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 33005 /home/rucruit/Desktop/Tsek.py 
+  235  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33277 /home/rucruit/Desktop/Tsek.py 
+  236  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37079 /home/rucruit/Desktop/Tsek.py 
+  237  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33105 /home/rucruit/Desktop/Tsek.py 
+  238  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41785 /home/rucruit/Desktop/Tsek.py 
+  239  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36975 /home/rucruit/Desktop/Tsek.py 
+  240  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46275 /home/rucruit/Desktop/Tsek.py 
+  241  /usr/bin/python3
+  242  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40043 /home/rucruit/Desktop/Tsek.py 
+  243  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36347 /home/rucruit/Desktop/Tsek.py 
+  244  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36421 /home/rucruit/Desktop/Tsek.py 
+  245  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34191 /home/rucruit/Desktop/Tsek.py 
+  246  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43591 /home/rucruit/Desktop/Tsek.py 
+  247  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41061 /home/rucruit/Desktop/practice.py 
+  248  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37617 /home/rucruit/Desktop/practice.py 
+  249  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46367 /home/rucruit/Desktop/practice.py 
+  250  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44417 /home/rucruit/Desktop/practice.py 
+  251  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38585 /home/rucruit/Desktop/practice.py 
+  252  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38337 /home/rucruit/Desktop/practice.py 
+  253  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 38815 /home/rucruit/Desktop/practice.py 
+  254  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34411 /home/rucruit/Desktop/practice.py 
+  255  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36761 /home/rucruit/Desktop/practice.py 
+  256  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 36865 /home/rucruit/Desktop/practice.py 
+  257  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33177 /home/rucruit/Desktop/practice.py 
+  258  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42771 /home/rucruit/Desktop/practice.py 
+  259  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44135 /home/rucruit/Desktop/practice.py 
+  260  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 46281 /home/rucruit/Desktop/practice.py 
+  261  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46029 /home/rucruit/Desktop/practice.py 
+  262  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 45133 /home/rucruit/Desktop/practice.py 
+  263  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33825 /home/rucruit/Desktop/practice.py 
+  264  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34901 /home/rucruit/Desktop/practice.py 
+  265  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42469 /home/rucruit/Desktop/practice.py 
+  266  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42531 /home/rucruit/Desktop/practice.py 
+  267  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 37887 /home/rucruit/Desktop/practice.py 
+  268  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42787 /home/rucruit/Desktop/practice.py 
+  269  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40611 /home/rucruit/Desktop/practice.py 
+  270  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34223 /home/rucruit/Desktop/practice.py 
+  271  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41097 /home/rucruit/Desktop/practice.py 
+  272  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42189 /home/rucruit/Desktop/practice.py 
+  273  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 46001 /home/rucruit/Desktop/practice.py 
+  274  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44123 /home/rucruit/Desktop/practice.py 
+  275  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44401 /home/rucruit/Desktop/practice.py 
+  276  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 33149 /home/rucruit/Desktop/practice.py 
+  277  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 40619 /home/rucruit/Desktop/practice.py 
+  278  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44869 /home/rucruit/Desktop/practice.py 
+  279  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 34203 /home/rucruit/Desktop/practice.py 
+  280  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 44155 /home/rucruit/Desktop/practice.py 
+  281  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 43571 /home/rucruit/Desktop/practice.py 
+  282  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42761 /home/rucruit/Desktop/practice.py 
+  283  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42029 /home/rucruit/Desktop/newpractice.py 
+  284  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42835 /home/rucruit/Desktop/newpractice.py 
+  285  /usr/bin/python3 /home/rucruit/Desktop/newfile.py
+  286  /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 39911 /home/rucruit/Desktop/newfile.py 
+  287  cd /home/rucruit/Desktop ; env ELECTRON_RUN_AS_NODE=1 CLUTTER_IM_MODULE=xim XDG_MENU_PREFIX=gnome- SNAP_USER_DATA=/home/rucruit/snap/code/21 LANG=en_ZA.UTF-8 MANAGERPID=19321 DISPLAY=:0 INVOCATION_ID=6e271f9124074cd1a161276228ac7844 GNOME_SHELL_SESSION_MODE=ubuntu SNAP_REVISION=21 DISABLE_WAYLAND=1 SNAP_ARCH=amd64 SNAP_INSTANCE_KEY= USERNAME=rucruit XDG_VTNR=2 GIO_LAUNCHED_DESKTOP_FILE_PID=19901 SSH_AUTH_SOCK=/run/user/1000/keyring/ssh XDG_SESSION_ID=96 SNAP_USER_COMMON=/home/rucruit/snap/code/common USER=rucruit DESKTOP_SESSION=ubuntu QT4_IM_MODULE=xim TEXTDOMAINDIR=/usr/share/locale/ PWD=/home/rucruit HOME=/home/rucruit JOURNAL_STREAM=9:830128 TEXTDOMAIN=im-config SNAP=/snap/code/21 SSH_AGENT_PID=19445 QT_ACCESSIBILITY=1 SNAP_COMMON=/var/snap/code/common XDG_SESSION_TYPE=x11 SNAP_NAME=code XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop SNAP_INSTANCE_NAME=code SNAP_DATA=/var/snap/code/21 GSETTINGS_SCHEMA_DIR=/snap/code/21/usr/share/glib-2.0/schemas XDG_SESSION_DESKTOP=ubuntu DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=62565a06f0d8477fb5a6ff4d5de0b1d0 GDK_PIXBUF_MODULE_FILE=/home/rucruit/snap/code/common/.cache/gdk-pixbuf-loaders.cache GTK_MODULES=gail:atk-bridge SNAP_COOKIE=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx WINDOWPATH=2 SHELL=/bin/bash QT_IM_MODULE=ibus XMODIFIERS=@im=ibus IM_CONFIG_PHASE=2 DBUS_STARTER_BUS_TYPE=session XDG_CURRENT_DESKTOP=Unity GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1 BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/code_code.desktop SNAP_REEXEC= GIO_LAUNCHED_DESKTOP_FILE=/var/lib/snapd/desktop/applications/code_code.desktop XDG_SEAT=seat0 SHLVL=2 LANGUAGE=en_ZA:en GDK_PIXBUF_MODULEDIR=/snap/code/21/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders GDMSESSION=ubuntu GNOME_DESKTOP_SESSION_ID=this-is-deprecated XDG_CACHE_HOME=/home/rucruit/snap/code/common/.cache LOGNAME=rucruit DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=62565a06f0d8477fb5a6ff4d5de0b1d0 XDG_RUNTIME_DIR=/run/user/1000/snap.code XAUTHORITY=/run/user/1000/gdm/Xauthority SNAP_CONTEXT=Hdg3NYWPGSCG1sws5lPTy00jgPHWkRMNjkMk60GgnRcx XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg SNAP_VERSION=f359dd69 SNAP_LIBRARY_PATH=/var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void SESSION_MANAGER=local/rucruit-ThinkCentre-M73:@/tmp/.ICE-unix/19350,unix/rucruit-ThinkCentre-M73:/tmp/.ICE-unix/19350 GTK_IM_MODULE=ibus _=/snap/code/21/usr/share/code/code APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL=true VSCODE_CLI=1 ELECTRON_NO_ATTACH_CONSOLE=1 VSCODE_FORCE_USER_ENV=1 NO_AT_BRIDGE=1 CHROME_DESKTOP=code-url-handler.desktop 'VSCODE_NLS_CONFIG={"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}' VSCODE_NODE_CACHED_DATA_DIR=/home/rucruit/.config/Code/CachedData/f359dd69833dd8800b54d458f6d37ab7c78df520 VSCODE_LOGS=/home/rucruit/.config/Code/logs/20191129T075224 VSCODE_IPC_HOOK=/run/user/1000/snap.code/vscode-91acf92d-1.40.2-main.sock VSCODE_PID=19948 'LESSCLOSE=/usr/bin/lesspipe %s %s' 'LESSOPEN=| /usr/bin/lesspipe %s' LS_COLORS= AMD_ENTRYPOINT=vs/workbench/services/extensions/node/extensionHostProcess PIPE_LOGGING=true VERBOSE_LOGGING=true VSCODE_IPC_HOOK_EXTHOST=/tmp/vscode-ipc-70678549-3931-4c3d-8d14-d5a7254ed869.sock VSCODE_HANDLES_UNCAUGHT_ERRORS=true VSCODE_LOG_STACK=false PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --nodebug --client --host localhost --port 36471 /home/rucruit/Desktop/newfile.py 
+  288  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 42439 /home/rucruit/Desktop/newfile.py 
+  289  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41993 /home/rucruit/Desktop/newfile.py 
+  290  cd /home/rucruit/Desktop ; env PYTHONIOENCODING=UTF-8 PYTHONUNBUFFERED=1 /usr/bin/python3 /home/rucruit/.vscode/extensions/ms-python.python-2019.11.50794/pythonFiles/ptvsd_launcher.py --default --client --host localhost --port 41493 /home/rucruit/Desktop/newfile.py 
+  291  /usr/bin/python3 /home/rucruit/Desktop/newfile.py
+  292  mkdir
+  293  ls
+  294  mk
+  295  echo
+  296  pwd
+  297  rk
+  298  dc
+  299  ls
+  300  cat
+  301  cd
+  302  clear
+  303  ls
+  304  pwd
+  305  mkdir workspaceclear
+  306  mkdir workspace
+  307  cd workspace
+  308  ls
+  309  touch README.md
+  310  cp README.md CHANGELOG.md
+  311  ls -l *.md
+  312  pwd
+  313  clear
+  314  touch exercise.md
+  315  mv exercise.md /tmp
+  316  rm exercise/tmp
+  317  rm exercise.md/tmp
+  318  rm exercise.md /tmp
+  319  rm /tmp
+  320  cd
+  321  touch exercise.md
+  322  mv exercise.md tmp
+  323  pwd
+  324  rm tmp
+  325  touch exercise.md
+  326  mv exercise.md /tmp
+  327  rm exercise.md /tmp
+  328  cat exercise.md
+  329  clear
+  330  cat teboho.md
+  331  pwd
+  332  cat > teboho.md
+  333  cat teboho.md
+  334  cat umuzi.md recruits.md cohort.md
+  335  cat umuzi.md
+  336  cat umuzu.md
+  337  cd
+  338  pwd
+  339  cat > umuzi.md
+  340  touch exercise.md1
+  341  ls
+  342  mv exercise.md1 tmp
+  343  ls
+  344  cd /tmp
+  345  ls
+  346  cd ..
+  347  clear
+  348  rm umuzu.md
+  349  history
+  350  clear
+  351  rm umuzi.md
+  352  clear
+  353  cat > umuzi.md
+  354  cat umuzi.md
+  355  cat > umuzi.md
+  356  cat > recruits.md
+  357  cat > cohort.md
+  358  locate umuzi
+  359  ls
+  360  cd Desktop
+  361  locate umuzi
+  362  find umuzi
+  363  cd ..
+  364  find umuzi
+  365  find umuzi.md
+  366  locate umuzi > search.md
+  367  ls
+  368  cat search.md
+  369  locate pad_copy.md
+  370  cd documents
+  371  cd Documents
+  372  ls
+  373  locate pad_copy.md
+  374  locate pad.md
+  375  locate pad_copy.md
+  376  ls
+  377  cd
+  378  find ~ *.pdf
+  379  find ~ -iname \*.pdf
+  380  find ~ -iname \*.pdf > Pdf_results
+  381  find . -mtime -1 -print
+  382  nano my_bio.md
+  383  clear
+  384  cat umuzi.md
+  385  cat umuzi.md recruits.md cohort.md
+  386  clear
+  387  ls
+  388  pwd
+  389  mkdir
+  390  mkdir workspace
+  391  cd workspace
+  392  ls
+  393  cd
+  394  cd Desktop
+  395  locate umuzi
+  396  cd
+  397  cd Documents
+  398  touch pad.md
+  399  cd
+  400  cd Desktop
+  401  cd
+  402  cd Documents
+  403  cd
+  404  cd
+  405  ls
+  406  cd Documents
+  407  touch pad.md
+  408  ls
+  409  cp /home/rucruit/Documents/pad.md pad_copy.md
+  410  cd
+  411  updatedb -o ~/.locate.db
+  412  update --require-visibility 0 -o ~/.locate.db
+  413  updatedb --require-visibility 0 -o ~/.locate.db
+  414  locate --database=.locate.db
+  415  alias mylocate='locate --database=/full/path/to/.locate.db'
+  416  mylocate <my pattern>
+  417  cd -
+  418  locate pad_copy.md
+  419  cd
+  420  locate pad_copy.md
+  421  sudo updatedb
+  422  locate pad_copy.md
+  423  nano my_bio.md
+  424  mkdir my_files
+  425  ls
+  426  nano my_bio.md
+  427  ls
+  428  mv my_bio.md my_files
+  429  clear
+  430  cd Documents
+  431  cd
+  432  nano my_bio.mdcd ~
+  433  cd ~
+  434  sudo nano /etc/crontab 
+  435  shutdown now
+  436  sudo apt update
+  437  sudo apt install git
+  438  git -- vision
+  439  git --version
+  440  git clone https://github.com/tebohomatsabu/Git-Basic-Exercises.git
+  441  cd Git-Basic-Exercises
+  442  ls -a
+  443  git init
+  444  ls -a
+  445  git status
+  446  touch README.md
+  447  ls -a
+  448  git status
+  449  git log
+  450  git add README
+  451  git add README.md
+  452  git status
+  453  get reset HEAD README.md
+  454  git reset HEAD README.md
+  455  git status
+  456  git add README.md
+  457  git commit -m "initial commit"
+  458  git add README.md
+  459  git config --global user.email "gmatsabu@gmail.com"
+  460  git config --global user.name ""
+  461  @tebohomatsabu
+  462  git config --global user.name "tebohomatsabu"
+  463  git commit -m "initial commit"
+  464  git config --global user.name "tebohomatsabu"
+  465  cd Desktop
+  466  ls
+  467  cd
+  468  ls
+  469  cd Git-Basic-Exercises
+  470  ls
+  471  ls -a
+  472  git status
+  473  git log
+  474  git commit -m "initial commit"
+  475  clear
+  476  cd
+  477  ls
+  478  cd Git-Basic-Exercises
+  479  ls -a 
+  480  rm README.md
+  481  ls -a
+  482  git init
+  483  ls -a 
+  484  git status
+  485  touch README.md
+  486  ls -a 
+  487  git status
+  488  git log
+  489  git add README.md
+  490  git status
+  491  git reset HEAD README.md
+  492  git status
+  493  git commit -m "initial commit"
+  494  git add README.md
+  495  git commit -m "initial commit"
+  496  git log
+  497  q
+  498  git commit -m "initial commit"
+  499  git log
+  500  nano README.md
+  501  cat README.md
+  502  git status
+  503  git add README.md
+  504  git commit -m "Second Commit"
+  505  git add README.md
+  506  git commit -m "third Commit"
+  507  git status
+  508  git log
+  509  git checkout
+  510  git checkout 0bfe7911f0f97a38f959fed450b707a798722c57
+  511  cat README.md
+  512  git checkout master
+  513  cat README.md
+  514  git branch
+  515  git checkout -b milkshake-flavour
+  516  git branch
+  517  git checkout
+  518  git branch
+  519  git checkout milkshake-flavour
+  520  nano milkshakes.md
+  521  cat milkshakes.md
+  522  git log
+  523  git branch
+  524  git branch -a
+  525  git checkout master
+  526  git push
+  527  git checkout -b history
+  528  git checkout history
+  529  git log
+  530  history > history.txt
+  531  git commit -m "added history"
+  532  git add history.txt
+  533  git commit -m "added history"
+  534  git log
+  535  git checkout milkshake-flavour
+  536  git log
+  537  git add README.md
+  538  git commit -m "random readme changes"
+  539  ls
+  540  git checkout history
+  541  git branch
+  542  git checkout milkshake-flavour
+  543  git log
+  544  git add
+  545  git add .
+  546  git log
+  547  git checkout milkshake-flavours
+  548  git checkout milkshake-flavour
+  549  git log
+  550  git add README.md
+  551  git commit -m "random readme changes"
+  552  cheackout history
+  553  checkout history
+  554  git checkout history
+  555  cat README.md
+  556  rm README.md echo "booya" > README.md
+  557  nano README.md
+  558  cat README.md
+  559  git add README.md
+  560  git commit -m "rewrote readme"
+  561  git checkout master
+  562  ls
+  563  git log
+  564  git checkout milkshake-flavour
+  565  ls
+  566  git log
+  567  git checkout history
+  568  ls
+  569  touch README.md
+  570  ls
+  571  git log
+  572  git checkout master
+  573  rm README.md
+  574  git checkout master
+  575  git merge milshake-flavour
+  576  git merge milkshake-flavour
+  577  ls
+  578  git log
+  579  git checkout history
+  580  git log
+  581  ls -a
+  582  git init
+  583  ls -a
+  584  git status
+  585  touch README.md
+  586  ls -a
+  587  git status
+  588  git log
+  589  git status
+  590  git reset -- README.md
+  591  git status
+  592  git add README.md
+  593  git commit -m "initial commit"
+  594  nano README.md
+  595  cat README.md
+  596  git stats
+  597  git status
+  598  git add README.md
+  599  git commit -m "second commit"
+  600  git add README.md
+  601  git commit -m "third commit"
+  602  git log
+  603  git commit -m "third commit"
+  604  git add README.md
+  605  git commit -m "third commit"
+  606  git log
+  607  git checkout ae77634569a11f9ed2c29bcb4892b04b8a5176d5
+  608  cat README.md
+  609  git checkout master
+  610  cat README.md
+  611  git checkout master
+  612  cat README.md
+  613  git branch
+  614  git checkout history
+  615  git branch
+  616  git checkout milkshake-flavours
+  617  git checkout milkshake-flavour
+  618  git branch
+  619  nano milkshakes.md
+  620* git 
+  621  git commit -m "added initial flavours"
+  622  git log
+  623  git add milkshakes.md
+  624  git commit -m "added initial flavours"
+  625  git log
+  626  git checkout master
+  627  git branch
+  628  git checkout history
+  629  git log
+  630  cat history.txt
+  631  history > history.txt
